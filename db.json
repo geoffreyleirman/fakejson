@@ -1,0 +1,20 @@
+{
+  "events":[{
+    "id": 1,
+    "category": "concert",
+    "title": "Tomorrow Land",
+    "description": "Festival De Schorre",
+    "location": "Boom",
+    "date": "August 08 2021",
+    "time": "09:00"
+  },
+    {
+      "id": 2,
+      "category": "concert",
+      "title": "Rock Werchter",
+      "description": "Rock Festival",
+      "location": "Werchter",
+      "date": "July 04 2021",
+      "time": "09:00"
+    }
+}
