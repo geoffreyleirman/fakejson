@@ -16,5 +16,24 @@
       "location": "Werchter",
       "date": "July 04 2021",
       "time": "09:00"
-    }]
+    },
+    {
+      "id": 3,
+      "category": "concert",
+      "title": "Pukkelpop",
+      "description": "Rock Festival",
+      "location": "Werchter",
+      "date": "July 04 2021",
+      "time": "09:00"
+    },
+    {
+      "id": 4,
+      "category": "concert",
+      "title": "Graspop",
+      "description": "Rock Festival",
+      "location": "Werchter",
+      "date": "July 04 2021",
+      "time": "09:00"
+    }
+  ]
 }
